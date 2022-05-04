@@ -1,3 +1,5 @@
+#热力图数据显示问题 只有一页 数据直接从接口获取 无数据库
+
 # yq-screen
 
 ![项目浏览](./front/public/image/main.jpg)
